@@ -1,0 +1,273 @@
+					Chips BST Project
+		------------------------------------------
+
+Main Menu:
+_______________________
+  1: Create a tree from user input
+  2: Use a pre-made tree
+  3: Randomly generate a tree
+  4: Exit
+
+	Your Selection: 2
+
+Premade Selections:
+_______________________
+  1: 15 6 18 3 7 17 20 2 4 13 9 
+  2: 11 10 9 8 7 6 5 4 3 2 1 
+  3: 11 7 4 9 2 8 1 7 6 15 12 3 13 14 5
+  4: Exit to Main Menu
+
+	Your Selection: 1
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 1
+
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 2
+
+The lowest value in the tree is 2.
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 3
+
+The highest value in the tree is 20.
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 4
+
+Would you like to search another number?
+Enter Y for Yes, Else returns to options menu.
+	User Input: y
+
+Would you like to search another number?
+Enter Y for Yes, Else returns to options menu.
+	User Input: n
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 5
+
+Enter a number to find the successor of: 
+	Number entered: 2
+
+	Successor of 2 is 3
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 6
+
+Enter a number to find the predecessor of: 
+	Number entered: 9
+
+	Predecessor of 9 doesn't exist.
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 6
+
+Enter a number to find the predecessor of: 
+	Number entered: 13
+
+	Predecessor of 13 doesn't exist.
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 6
+
+Enter a number to find the predecessor of: 
+	Number entered: 4
+
+	Predecessor of 4 is 2
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 7
+
+Numbers in current tree: 
+2 3 4 6 7 9 13 15 17 18 20 
+Value to be inserted into tree: 100
+
+Numbers in tree now: 
+2 3 4 6 7 9 13 15 17 18 20 100 
+Would you like to insert another value?
+Enter Y for Yes, Else returns to options menu.
+	User Input: n
+
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: y
+
+
+Options Menu:
+_______________________
+  1: In Order Tree Traversal
+  2: Find The Minimum
+  3: Find The Maximum
+  4: Search for Particular Key
+  5: Find successor of a node
+  6: Find predecessor of a node
+  7: Insert a New Key
+  8: Delete a Key
+  9: Exit to Main Menu
+
+
+	Your Selection: 8
+
+Numbers in current tree: 
+2 3 4 6 7 9 13 15 17 18 20 100 
+Value to be deleted from tree: 13
+
+Numbers in tree now: 
+2 3 4 6 7 9 15 17 18 20 100 
+
+Would you like to delete another value?
+Enter Y for Yes, Else returns to options menu.
+	User Input: n
+
+Would you like to use the same tree for a different option?
+Enter Y for Yes, Else returns to main menu.
+	User Input: n
+
+Main Menu:
+_______________________
+  1: Create a tree from user input
+  2: Use a pre-made tree
+  3: Randomly generate a tree
+  4: Exit
+
+	Your Selection: 4
+
